@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Datenschutzerklärung und Nutzungserklärung</title>
+</head>
+<body>
+    <header>
+        <h1>Datenschutzerklärung für die Photogrammetrie-App</h1>
+    </header>
+    <main>
+        <section id="datenschutz">
+            <p>Wir nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Im Folgenden möchten wir Sie über den Umgang mit Daten in unserer Photogrammetrie-App informieren.</p>
+            <ol>
+                <li><strong>Keine Speicherung von Daten</strong><br>
+                    Unsere App speichert weder persönliche Daten noch verarbeitet sie diese dauerhaft. Alle Daten, die während der Nutzung der App generiert werden, verbleiben ausschließlich auf Ihrem Gerät. Es werden keine Daten an Server oder Dritte übertragen.
+                </li>
+                <li><strong>Keine Erhebung persönlicher Daten</strong><br>
+                    Es werden keine Kundendaten abgefragt, gespeichert oder verarbeitet. Die App erfordert keine Registrierung oder Anmeldung. Es werden keine personenbezogenen Daten wie Name, Adresse, Telefonnummer oder E-Mail-Adresse erfasst.
+                </li>
+                <li><strong>Verwendung von Bild- und 3D-Daten</strong><br>
+                    Die von Ihnen erstellten oder in die App importierten Bilder und 3D-Daten werden ausschließlich lokal verarbeitet und gespeichert. Diese Daten verlassen zu keinem Zeitpunkt Ihr Gerät, es sei denn, Sie exportieren diese bewusst.
+                </li>
+                <li><strong>Berechtigungen der App</strong><br>
+                    Unsere App benötigt Zugriff auf bestimmte Funktionen Ihres Geräts, um die Photogrammetrie-Funktionalität bereitzustellen:
+                    <ul>
+                        <li><strong>Kamera:</strong> Um Bilder für die Erstellung von 3D-Modellen aufzunehmen.</li>
+                        <li><strong>Speicher (Camera Roll/Photos App):</strong> Um Bilder aus Ihrer Fotos-App zu importieren, die Sie für die 3D-Modellerstellung verwenden möchten.</li>
+                        <li><strong>Speicherzugriff:</strong> Um die generierten 3D-Modelle (z. B. .usdz-Dateien) lokal auf Ihrem Gerät zu speichern.</li>
+                    </ul>
+                    Diese Berechtigungen werden ausschließlich für die beschriebenen Zwecke genutzt und dienen dem Betrieb der App. Es erfolgt keine Nutzung oder Verarbeitung Ihrer Daten für andere Zwecke.
+                </li>
+                <li><strong>Keine Weitergabe an Dritte</strong><br>
+                    Es findet keine Weitergabe von Daten an Dritte statt. Es werden keine Daten zu Analysezwecken gesammelt oder an externe Dienste gesendet.
+                </li>
+                <li><strong>Ihre Kontrolle über Ihre Daten</strong><br>
+                    Da alle Daten lokal auf Ihrem Gerät gespeichert werden, haben Sie die vollständige Kontrolle über deren Nutzung und können diese jederzeit löschen.
+                </li>
+                <li><strong>Änderungen der Datenschutzerklärung</strong><br>
+                    Sollten Änderungen an dieser Datenschutzerklärung erforderlich sein, werden diese direkt in der App aktualisiert und entsprechend kommuniziert.
+                </li>
+            </ol>
+            <p><strong>Fragen zum Datenschutz?</strong><br>
+                Wenn Sie Fragen oder Bedenken zu dieser Datenschutzerklärung haben, können Sie uns jederzeit kontaktieren:<br>
+                E-Mail: [Ihre E-Mail-Adresse einfügen]<br>
+                <em>Stand der Datenschutzerklärung: [Datum einfügen]</em>
+            </p>
+        </section>
+
+        <section id="nutzung">
+            <h2>Nutzungserklärung für die Photogrammetrie-App</h2>
+            <p>Vielen Dank, dass Sie unsere Photogrammetrie-App verwenden. Diese App wurde entwickelt, um Ihnen ein benutzerfreundliches Werkzeug zur Erstellung und Verarbeitung von 3D-Modellen bereitzustellen.</p>
+            <ol>
+                <li><strong>Zweck der App</strong><br>
+                    Die App dient dazu, aus einer Serie von Fotos oder Bildern 3D-Modelle zu erstellen. Sie richtet sich sowohl an Hobbyanwender als auch an professionelle Nutzer, die photogrammetrische Daten für verschiedene Anwendungen erstellen möchten, z. B.:
+                    <ul>
+                        <li>Visualisierungen und Animationen</li>
+                        <li>Produktdesign und Prototyping</li>
+                        <li>Wissenschaftliche und archäologische Dokumentationen</li>
+                    </ul>
+                </li>
+                <li><strong>Voraussetzungen für die Nutzung</strong><br>
+                    <ul>
+                        <li><strong>Betriebssystem:</strong> Die App ist kompatibel mit [z. B. iOS 15.0 oder neuer].</li>
+                        <li><strong>Gerätefunktionen:</strong> Zur Nutzung der App benötigen Sie ein Gerät mit einer Kamera und ausreichendem Speicherplatz.</li>
+                        <li><strong>Berechtigungen:</strong> Für die volle Funktionalität der App müssen der Kamera-, Speicher- und Fotozugriff aktiviert werden.</li>
+                    </ul>
+                </li>
+                <li><strong>Nutzung der App</strong><br>
+                    <ol>
+                        <li>Aufnahme von Bildern: Erfassen Sie Fotos Ihres Objekts aus verschiedenen Winkeln mit der integrierten Kamera.</li>
+                        <li>Importieren von Bildern: Alternativ können Sie Bilder aus Ihrer Fotos-App (Camera Roll) in die App laden.</li>
+                        <li>Modellgenerierung: Die App verarbeitet die importierten Bilder und erstellt ein 3D-Modell, das Sie speichern und exportieren können.</li>
+                        <li>Export: Speichern Sie das 3D-Modell in einem unterstützten Format (z. B. .usdz) in Ihrem lokalen Speicher.</li>
+                    </ol>
+                </li>
+                <li><strong>Einschränkungen der Nutzung</strong><br>
+                    Die App darf nur für rechtmäßige, ethische und nicht kommerzielle Zwecke verwendet werden. Es ist untersagt, die App für Aktivitäten einzusetzen, die geltendes Recht, Rechte Dritter oder ethische Standards verletzen. Die App darf nicht verwendet werden, um urheberrechtlich geschützte Inhalte oder Objekte ohne ausdrückliche Genehmigung zu reproduzieren. Jegliche Nutzung für kommerzielle Anwendungen, wie der Verkauf oder die Verbreitung der mit der App erstellten Modelle, ist nicht gestattet.
+                </li>
+                <li><strong>Haftungsausschluss</strong><br>
+                    Wir übernehmen keine Verantwortung für Schäden, die durch die Nutzung der App oder der erstellten 3D-Modelle entstehen können. Es wird keine Gewähr für die Genauigkeit, Qualität oder Eignung der erstellten Modelle für spezifische Zwecke übernommen.
+                </li>
+                <li><strong>Support und Updates</strong><br>
+                    <ul>
+                        <li><strong>Support:</strong> Bei technischen Problemen oder Fragen zur Nutzung der App kontaktieren Sie bitte unser Support-Team unter [Ihre E-Mail-Adresse einfügen].</li>
+                        <li><strong>Updates:</strong> Die App wird regelmäßig aktualisiert, um Fehler zu beheben und neue Funktionen bereitzustellen. Stellen Sie sicher, dass Sie die neueste Version verwenden.</li>
+                    </ul>
+                </li>
+                <li><strong>Änderungen der Nutzungserklärung</strong><br>
+                    Wir behalten uns das Recht vor, diese Nutzungserklärung jederzeit zu ändern. Änderungen werden direkt in der App kommuniziert. Durch die Nutzung der App erklären Sie sich mit den Bedingungen dieser Nutzungserklärung einverstanden.
+                </li>
+            </ol>
+            <p><em>Stand der Nutzungserklärung: [Datum einfügen]</em></p>
+        </section>
+    </main>
+</body>
+</html>
